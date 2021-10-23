@@ -6,7 +6,6 @@ var FPS=40;
 var PantallaAlto=800;
 var PantallaAncho=1000;
 
-  
 
 
 function empiezaJuego() {
